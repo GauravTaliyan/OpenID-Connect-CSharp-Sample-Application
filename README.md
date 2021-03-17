@@ -32,6 +32,7 @@ This sample code will help you test openId connect authentication.
 # By Default Sample app is running for Authorization and Implicit flow.
 
 Only Authorization Flow
+
     By Default Sample app is running for Authorization and Implicit flow.
     If you want the app to be running only in Authorization flow.
     Change the public const string ResponseType = "code id_token"; in Constants.cs
