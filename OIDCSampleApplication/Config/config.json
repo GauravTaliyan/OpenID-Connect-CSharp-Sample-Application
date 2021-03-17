@@ -1,0 +1,23 @@
+﻿{
+  "OIDCConfig": {
+    //"ClientId": "MyOidcApp",
+    //"ClientSecret": "b92955bb-3d20-4b4b-acdf-846f94aaa69d",
+    //"Authority": "http://localhost:9990/auth/realms/UG300RAVAC-STA",
+    //"ClientId": "MyOidcApp",
+    //"ClientSecret": "15cc598e-86e1-45ab-a0ff-16232dd756d6",
+    //"Authority": "http://localhost:9990/auth/realms/T31QDVAOQL-STA",
+    //"ClientId": "MyOidcAppParentOnly",
+    //"ClientSecret": "ba6bfab2-de7e-4ead-8bf5-5617b7acc0cc",
+    //"Authority": "http://localhost:9990/auth/realms/T31QDVAOQL-STA",
+    //"ClientId": "MyOidcAppChildOnly",
+    //"ClientSecret": "a686445e-90ac-4522-92b2-cdf4ce960277",
+    //"Authority": "http://10.164.109.240:9990/auth/realms/UG300RAVAC-STA",
+    "ClientId": "86ebe191-1f9e-46a0-9b5e-222c2f2d0693",
+    "ClientSecret": "da0a36c1-6f2c-4d3a-8fee-ec37cf63ede6",
+    "Authority": "https://spedemo-sasidp.stademo.com/auth/realms/0Q16GSBQ4A-STA",
+    //For Authorization Flow, ResponseType will be "code";
+    //For Implicit Flow, ResponseType will be "id_token";
+    //For Hybrid Flow, ResponseType will be "code id_token";
+    "ResponseType": "code"
+  }
+}
